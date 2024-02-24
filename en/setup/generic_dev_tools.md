@@ -17,4 +17,5 @@ The development team often use:
 * [Visual Studio Code](../setup/vscode.md): Popular new open source IDE
 * [Eclipse for C/C++](https://www.eclipse.org/downloads/eclipse-packages/): Feature rich Java based IDE
 * [Sublime Text](https://www.sublimetext.com): Fast and lean text editor. 
+* [CodeLobster](https://codelobster.com): Smart and free editor. 
 * [Qt Creator](https://www.qt.io/download-open-source): Popular cross-platform open-source IDE.
